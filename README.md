@@ -38,7 +38,7 @@ Este repositório contém um script desenvolvido em Python para extrair e organi
 3. Configure o token JWT no script `extracao_unico_people.py`.
 4. Execute o script para iniciar a extração:
    ```bash
-   python extracao_unico_people.py
+   python extracao.py
    ```
 
 ## 🛡️ Considerações de Segurança
